@@ -1,0 +1,142 @@
+{
+    "total_patents": 50000,
+    "top_inventors": [
+        {
+            "name": "Kangguo Cheng",
+            "patents": 56
+        },
+        {
+            "name": "Shunpei Yamazaki",
+            "patents": 52
+        },
+        {
+            "name": "Roderick A. Hyde",
+            "patents": 32
+        },
+        {
+            "name": "Jason K. Resch",
+            "patents": 28
+        },
+        {
+            "name": "Hanbyul Seo",
+            "patents": 26
+        },
+        {
+            "name": "Suckchel Yang",
+            "patents": 26
+        },
+        {
+            "name": "Joonkui Ahn",
+            "patents": 24
+        },
+        {
+            "name": "Alexander Reznicek",
+            "patents": 24
+        },
+        {
+            "name": "Lowell L. Wood, JR.",
+            "patents": 23
+        },
+        {
+            "name": "Devendra K. Sadana",
+            "patents": 23
+        }
+    ],
+    "top_companies": [
+        {
+            "name": "International Business Machines Corporation",
+            "patents": 1463
+        },
+        {
+            "name": "SAMSUNG DISPLAY CO., LTD.",
+            "patents": 1306
+        },
+        {
+            "name": "CANON KABUSHIKI KAISHA",
+            "patents": 497
+        },
+        {
+            "name": "Intel Corporation",
+            "patents": 416
+        },
+        {
+            "name": "Microsoft Technology Licensing, LLC",
+            "patents": 380
+        },
+        {
+            "name": "LG ELECTRONICS INC.",
+            "patents": 374
+        },
+        {
+            "name": "FORD GLOBAL TECHNOLOGIES, LLC",
+            "patents": 363
+        },
+        {
+            "name": "Taiwan Semiconductor Manufacturing Company, Ltd.",
+            "patents": 354
+        },
+        {
+            "name": "QUALCOMM Incorporated",
+            "patents": 349
+        },
+        {
+            "name": "Apple Inc.",
+            "patents": 348
+        }
+    ],
+    "top_countries": [
+        {
+            "country": "US",
+            "patents": 22749,
+            "share": 0.4347
+        },
+        {
+            "country": "JP",
+            "patents": 8029,
+            "share": 0.1534
+        },
+        {
+            "country": "KR",
+            "patents": 3285,
+            "share": 0.0628
+        },
+        {
+            "country": "DE",
+            "patents": 2920,
+            "share": 0.0558
+        },
+        {
+            "country": "CN",
+            "patents": 2788,
+            "share": 0.0533
+        },
+        {
+            "country": "TW",
+            "patents": 1615,
+            "share": 0.0309
+        },
+        {
+            "country": "GB",
+            "patents": 1431,
+            "share": 0.0273
+        },
+        {
+            "country": "FR",
+            "patents": 1262,
+            "share": 0.0241
+        },
+        {
+            "country": "CA",
+            "patents": 1188,
+            "share": 0.0227
+        },
+        {
+            "country": "IN",
+            "patents": 946,
+            "share": 0.0181
+        }
+    ],
+    "year_trends": {
+        "2018": 50000
+    }
+}
